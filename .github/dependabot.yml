@@ -1,7 +1,7 @@
 version: 2
 updates:
   - package-ecosystem: "npm" # npm packages for the Docusaurus site
-    # directory: "/docs" # Location of docs/package.json
+    directory: "/" # Location of docs/package.json
     schedule:
       interval: "weekly"
     # allow:
