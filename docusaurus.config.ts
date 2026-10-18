@@ -46,6 +46,8 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
+          // bat（自动传递班主任通知）与 feishu-docs（自动搬运家长留言）两个工具已停用，
+          // 对应教程有意从站点隐藏；blog 里指向它们的断链是预期内的。
           exclude: ['**/bat/**', '**/feishu-docs/**'],
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
