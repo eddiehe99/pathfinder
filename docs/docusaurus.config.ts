@@ -13,7 +13,7 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://cyber-banzhuren.eddiehe.top',
+  url: 'https://pathfinder.eddiehe.top',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -21,7 +21,7 @@ const config: Config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'eddiehe99', // Usually your GitHub org/user name.
-  projectName: 'cyber-banzhuren', // Usually your repo name.
+  projectName: 'pathfinder', // Usually your repo name.
 
   onBrokenLinks: 'warn',
   markdown: {
@@ -50,7 +50,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/eddiehe99/cyber-banzhuren',
+            'https://github.com/eddiehe99/pathfinder',
           remarkPlugins: [remarkMath],
           rehypePlugins: [rehypeKatex],
         },
@@ -65,7 +65,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/eddiehe99/cyber-banzhuren',
+            'https://github.com/eddiehe99/pathfinder',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -98,7 +98,7 @@ const config: Config = {
       { name: 'copyright', content: '© 2025 Eddie He' },
       { property: 'og:description', content: '您的赛博班主任工具集。' },
       { property: 'og:image', content: 'img/docusaurus-social-card.jpg' },
-      { property: 'og:url', content: 'https://cyber-banzhuren.eddiehe.top' },
+      { property: 'og:url', content: 'https://pathfinder.eddiehe.top' },
       { name: 'twitter:description', content: '您的赛博班主任工具集。' },
       { name: 'twitter:image', content: 'img/docusaurus-social-card.jpg' },
       { name: 'twitter:site', content: '@eddiehe99' },
@@ -127,7 +127,7 @@ const config: Config = {
         },
         { to: '/blog', label: 'Blog', position: 'left' },
         {
-          href: 'https://github.com/eddiehe99/cyber-banzhuren',
+          href: 'https://github.com/eddiehe99/pathfinder',
           label: 'GitHub',
           position: 'right',
         },
