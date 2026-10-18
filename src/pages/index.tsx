@@ -21,7 +21,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/tutorials/intro">
-            点我，15min ⏱️ 后即可使用
+            start
           </Link>
         </div>
       </div>
@@ -34,8 +34,8 @@ export default function Home(): ReactNode {
   return (
     <Layout
       // title={`${siteConfig.title}`}
-      title="Cyber Banzhuren"
-      description="赛博班主任工具集。">
+      title="Cyber Pathfinder"
+      description="赛博“引路人”">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
