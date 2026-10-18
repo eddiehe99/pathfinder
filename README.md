@@ -1,4 +1,4 @@
-# Banzhuren Notifier
+# Banzhuren Notifier (to be updated)
 
 ## Environment
 
