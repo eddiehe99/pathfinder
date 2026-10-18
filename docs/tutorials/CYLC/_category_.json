@@ -1,0 +1,9 @@
+{
+  "label": "团委工作",
+  "position": 7,
+  "link": {
+    "type": "generated-index",
+    "slug": "tutorials/cylc",
+    "description": "团委各项常规工作的标准流程，按顺序执行即可完成。"
+  }
+}
