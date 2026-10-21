@@ -20,3 +20,7 @@ sidebar_position: 4
 - 微软 office 部署工具: [Office Tool Plus](https://otp.landian.vip/zh-cn/)
 - PPT 插件：[iSlide](https://www.islide.cc/)
 - Word 公文排版插件：[小恐龙公文排版助手](https://xkonglong.com/)
+
+## Pirated Software
+
+- [软件宝库](https://my.feishu.cn/base/ZBmDbYu57aPvJwsNgk3c2LWpnwe?table=tbli32fkmWsThsL6&view=vewyeuFTQj)
